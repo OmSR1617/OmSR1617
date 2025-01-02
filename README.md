@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Sakshad Ramgude,
 
 # 💫 About Me:
-👨‍💻 I’m currently working on Frontend Technologies<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at here<br><br>💬 Ask me about Javascript, python<br><br>📫 How to reach me: omramgude@gmail.com
+👨‍💻 I’m currently improving my skills on Frontend Technologies<br><br>🌱 I’m currently learning MERN Stack<br><br>📫 How to reach me: omramgude@gmail.com
 
 
 ## 🌐 Socials:
