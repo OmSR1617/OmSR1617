@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Sakshad Ramgude,
 
 # 💫 About Me:
-👨‍💻 I’m currently improving my skills on Frontend Technologies<br><br>🌱 I’m currently learning MERN Stack<br><br>📫 How to reach me: omramgude@gmail.com
+👨‍💻 I’m currently improving my skills on Frontend Technologies<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍🎓 Pursuing degree: BE in Information Technology<br><br>📫 How to reach me: omramgude@gmail.com
 
 
 ## 🌐 Socials:
